@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnakeSneakS)](https://github.com/anuraghazra/github-readme-stats)
-![Neos21 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeSneakS)
+[![SnakeSneakS's github stats](https://github-readme-stats.vercel.app/api?username=SnakeSneakS)](https://github.com/anuraghazra/github-readme-stats)
+![SnakeSneakS Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeSneakS)
 <!--
 **SnakeSneakS/SnakeSneakS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
